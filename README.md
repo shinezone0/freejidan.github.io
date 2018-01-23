@@ -1,12 +1,12 @@
-# BY Blog
+# conger Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
+> 下面是博客的搭建教程，这个教程修改自 [BY](https://github.com/qiubaiying/qiubaiying.github.io) 。
 > 
 > 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 
 > 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
+### [我的博客在这里 &rarr;](http://worldconger.github.io)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
+![](https://raw.githubusercontent.com/worldconger/qworldconger.github.io/master/img/readme-home.png)
 
 
 ## 使用
@@ -43,13 +43,13 @@
 
 ```
 # Site settings
-title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+title: conger Blog                    # 你的博客网站标题
+SEOTitle: 葱儿的博客 | conger Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
-jianshu_username: e71990ada2fd  # 你的简书ID。
+github_username: worldconger     # 你的github账号
+jianshu_username: 62254171025f  # 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -68,8 +68,8 @@ yaml 头文件长这样:
 layout:     post
 title:      定时器 你真的会使用吗？
 subtitle:   iOS定时器详解
-date:       2016-12-13
-author:     BY
+date:       2018-1-23
+author:     conger
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
@@ -82,7 +82,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/worldconger/worldconger.github.io/master/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -117,7 +117,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 
 ### Social-media Account
 
-在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/e71990ada2fd>
+在下面输入的社交账号，没有的添加的不会显示在侧边框中。新加入了[简书](https:/www.jianshu.com)链接, <http://www.jianshu.com/u/62254171025f>
 
 	# SNS settings
 	RSS: false
@@ -142,7 +142,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 friends: [
     {
         title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        href: "https://worldconger.github.io/"
     },
     {
         title: "Apple",
@@ -204,7 +204,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
+参考这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
 
 
 ### Analytics
@@ -238,7 +238,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### SEO Title
 
-我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“柏荧的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“conger Blog”** 但是我想要在搜索的时候显示 **“葱儿的博客 | conger Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
@@ -263,10 +263,10 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ## 致谢
 
-1. 这个模板是从这里 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 感谢这个作者。 
+1. 这个模板是从这里 [BY](https://github.com/qiubaiying/qiubaiying.github.io) fork 的, 感谢这个作者。 
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/qiubaiying/qiubaiying.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/worldconger/worldconger.github.io/blob/master/LICENSE)。
 
