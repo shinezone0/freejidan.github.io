@@ -1,10 +1,10 @@
 # Site settings
-title: 免费领取鸡蛋
+title: 买就送
 SEOTitle: 住在衡阳的朋友有口福啦！数量有限
 header-img: img/post-bg-desk.jpg
 email: 196830424@qq.com
 description: "Every failure is leading towards success."
-keyword: "土鸡蛋, 乌鸡蛋, 草鸡蛋, 散养鸡蛋, 走地鸡, 笨鸡蛋, 五谷杂粮,iOS, Apple, iPhone"
+keyword: "衡阳,土鸡蛋, 乌鸡蛋, 草鸡蛋, 散养鸡蛋, 走地鸡, 笨鸡蛋, 五谷杂粮,iOS, Apple, iPhone"
 url: "https://shinezone0.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/shinezone0/shinezone0.github.io.git" # you code repository
