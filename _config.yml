@@ -23,7 +23,7 @@ zhihu_username:     false
 github_username:    false
 facebook_username:  false
 jianshu_username:   false
-#twitter_username:   qiubaiying
+twitter_username:   false
 
 
 
@@ -55,9 +55,9 @@ kramdown:
 
 
 
-# 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+#评论系统
+Disqus（https://disqus.com/）
+disqus_username: shinezone0
 
 # Gitalk
 gitalk:
