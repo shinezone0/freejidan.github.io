@@ -19,7 +19,6 @@ tags:
     <iframe style="float:left" align="center" width="50%" height="300" src="https://www.iesdouyin.com/share/video/6819994717015624960/?mid=6621697575923763971"  frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
   </div>
   <div id="page2">
-    <p style="margin-top: -190px;margin-left: -109"></p>
     <iframe style="float:right" align="center" width="50%" height="300" src="https://www.iesdouyin.com/share/video/6819991610693094671/?mid=6600620301749488387"  frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
   </div>  
   
