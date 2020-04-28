@@ -11,7 +11,7 @@ tags:
 ---
 ### 想吃的我给你去山上挖去，粗的细的都有！只要10元3斤毛重，衡阳同城的免费送货上门，外地的发顺丰到付，网上最便宜的都要7-9块，贵的10块往上！
 ---
-#### [新鲜现挖春笋大小混装需要的点此去下单](https://mobile.yangkeduo.com/goods.html?goods_id=113516267728)  
+#### [点此去下单新鲜现挖春笋大小混装](https://mobile.yangkeduo.com/goods.html?goods_id=113516267728)  
 
 <body>
   <p>实物拍摄</p>
