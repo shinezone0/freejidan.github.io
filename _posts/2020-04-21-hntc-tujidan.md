@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      新店开张，欢迎光临！
-subtitle:   点我去往领取鸡蛋的路上
+subtitle:   点我下单就送
 date:       2020-04-21
 author:     jidan
 header-img: img/about-BY-gentle.jpg
