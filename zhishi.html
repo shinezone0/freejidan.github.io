@@ -29,7 +29,7 @@ description: "学无止境"
 			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
                     <span class="tag-text">{{ tag[0] }}</span>
                 </span>
-				{% for post in tag[1] %}
+				{% for post1 in tag[1] %}
 				  <!-- <li class="listing-item">
 				  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
 				  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
@@ -37,11 +37,11 @@ description: "学无止境"
 				 <div class="post-preview">
 				    <a href="{{ post.url | prepend: site.baseurl }}">
 				        <h2 class="post-title">
-                            {{ post.title }}
+                            {{ post1.title }}
 				        </h2>
-				        {% if post.subtitle %}
+				        {% if post1.subtitle %}
 				        <h3 class="post-subtitle">
-				            {{ post.subtitle }}
+				            {{ post1.subtitle }}
 				        </h3>
 				        {% endif %}
 				    </a>
