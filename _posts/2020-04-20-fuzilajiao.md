@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      湖南衡阳特产，夫子辣椒！
+title:      衡阳特产，夫子辣椒！
 subtitle:   
 date:       2020-04-21
 author:     jidan
