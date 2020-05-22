@@ -7,7 +7,7 @@ author:     jidan
 header-img: img/te/tcbj.jpg
 catalog: true
 tags:
-    - 买就送
+    - 
 ---
 ### 想吃的我给你去山上挖去，粗的细的都有！只要10元3斤毛重，衡阳同城的免费送货上门，外地的发顺丰到付，网上最便宜的都要7-9块，贵的10块往上！
 ---
