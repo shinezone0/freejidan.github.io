@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      老家山林散养，生态养殖，无药物激素！
-subtitle:   点我下单就送
+subtitle:   
 date:       2020-04-21
 author:     jidan
 header-img: img/about-BY-gentle.jpg
