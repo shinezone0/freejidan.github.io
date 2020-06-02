@@ -13,6 +13,16 @@ tags:
 ![](/img/te/52.png)
 ![](/img/te/54.png)
 
+<body>
+	<video class="tvhou" width="100%" height="100%"
+		controls="controls" autoplay="autoplay"
+		x-webkit-airplay="true" x5-video-player-fullscreen="true"
+		preload="auto" playsinline="true" webkit-playsinline
+		x5-video-player-typ="h5">
+		<source type="application/x-mpegURL" src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.mp4">
+	</video>
+</body>
+
 * #### 为什么选择土鸡蛋：味香，口感好！小孩子吃的放心，爱吃不挑！ 健身，运动员，更加讲究健康。
 		当然，非要去网上或是奸商那买激素饲料催生蛋，我也拦不住。
 		在我这买的，有问题任何时候，都可以找我！
