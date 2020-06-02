@@ -21,6 +21,9 @@ tags:
 -------
 ### [活动入口！任意下单购买土鸡蛋即送5枚，先到先得，数量有限。](https://mobile.yangkeduo.com/goods.html?_wv=41729&_wvx=10&goods_id=101523545663&page_from=0&share_uin=2VKF65ARD45NOUPSNG752YHELY_GEXDA&refer_share_id=s2g7km4hl1t79c4bnb7pwjasl1ujynqv&refer_share_uid=4270167021&refer_share_channel=qq#pushState)
 
+### [老家正宗老母鸡，不吃饲料不是网上卖的笼养蛋鸡下架退役鸡，点我](https://mobile.yangkeduo.com/goods.html?goods_id=131821389804)
+-------
+
 ### [进入店铺主页](https://mobile.yangkeduo.com/mall_page.html?mall_id=839218684&msn=whr6nisqbjwafr25ql2dlntkqy_axbuy&_x_out_of_station=offical_account)
 -------
 **如有任何问题可联系微信，长按微信二维码加好友，还有各种农产品，地道的湖南味：**
