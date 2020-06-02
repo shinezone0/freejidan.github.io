@@ -9,11 +9,14 @@ catalog: true
 tags:
     - 土鸡蛋，老母鸡，仔鸡公（给小孩吃大补）
 ---
+
 **老母鸡：**
+
 ![](/img/te/52.png)
 ![](/img/te/54.png)
 
 <body>
+    <p>探索发现，湖南的健康农产品：仅在手机上可观看</p>
 	<video class="tvhou" width="100%" height="100%"
 		controls="controls" autoplay="autoplay"
 		x-webkit-airplay="true" x5-video-player-fullscreen="true"
@@ -24,12 +27,15 @@ tags:
 </body>
 
 * #### 为什么选择土鸡蛋：味香，口感好！小孩子吃的放心，爱吃不挑！ 健身，运动员，更加讲究健康。
-		当然，非要去网上或是奸商那买激素饲料催生蛋，我也拦不住。
-		在我这买的，有问题任何时候，都可以找我！
+    当然，非要去网上或是奸商那买激素饲料催生蛋，我也拦不住。
+    在我这买的，有问题任何时候，都可以找我！
 ------
+
 * #### 只需在线下单，一小时左右可送到，长期供应，假一赔十，数量有限，先到先得。
 -------
+
 ### [活动入口！任意下单购买土鸡蛋即送5枚，先到先得，数量有限。](https://mobile.yangkeduo.com/goods.html?_wv=41729&_wvx=10&goods_id=101523545663&page_from=0&share_uin=2VKF65ARD45NOUPSNG752YHELY_GEXDA&refer_share_id=s2g7km4hl1t79c4bnb7pwjasl1ujynqv&refer_share_uid=4270167021&refer_share_channel=qq#pushState)
+-------
 
 ### [老家正宗老母鸡，不吃饲料不是网上卖的笼养蛋鸡下架退役鸡，点我](https://mobile.yangkeduo.com/goods.html?goods_id=131821389804)
 -------
