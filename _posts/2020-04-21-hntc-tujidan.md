@@ -13,17 +13,8 @@ tags:
 **老母鸡：**
 ![](/img/te/52.jpg)
 ![](/img/te/54.jpg)
-<head>
-  <script src='https://vjs.zencdn.net/7.4.1/video.js'></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.15.0/videojs-contrib-hls.min.js" type="text/javascript"></script>
-</head>
+
 <body>
-    <div>
-        <video id="myVideo" class="video-js vjs-default-skin vjs-big-play-centered" controls preload="auto" data-setup='{}' style='width: 100%;height: auto'>
-            <source id="source" src="https://baikevideo.cdn.bcebos.com/media/mda-OgLyXXY16SVdPBHF/4a35ee2e3ee137f28a11f2bfab519a53.m3u8" type="application/x-mpegURL"></source>
-        </video>
-    </div>
-	
     <div class="px-video-container" id="myvid">
       <div class="px-video-img-captions-container">
         <div class="px-video-captions hide" aria-hidden="true"></div>
