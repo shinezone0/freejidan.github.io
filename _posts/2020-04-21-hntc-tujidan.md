@@ -19,6 +19,7 @@ tags:
       <div class="px-video-img-captions-container">
         <div class="px-video-captions hide" aria-hidden="true"></div>
         <video width="100%" height="100%" poster="media/foo.jpg" controls>
+		    <source src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.mp4" />
             <source src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.webm" />
         </video>
       </div>
@@ -30,7 +31,7 @@ tags:
 		x-webkit-airplay="true" x5-video-player-fullscreen="true"
 		preload="auto" playsinline="true" webkit-playsinline
 		x5-video-player-typ="h5">
-		<source type="application/x-mpegURL" src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.webm">
+		<source type="application/x-mpegURL" src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.mp4">
 	</video>
 </body>
 
