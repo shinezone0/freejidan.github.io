@@ -18,8 +18,10 @@ tags:
     <div class="px-video-container" id="myvid">
       <div class="px-video-img-captions-container">
         <div class="px-video-captions hide" aria-hidden="true"></div>
-        <video width="100%" height="100%">
+        <video width="100%" height="100%" poster="media/foo.jpg" controls>
             <source src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.mp4" />
+            <source src="foo.webm" type="video/webm" />
+            <track kind="captions" label="English captions" src="media/foo.vtt" srclang="en" default />
         </video>
       </div>
       <div class="px-video-controls"></div>
