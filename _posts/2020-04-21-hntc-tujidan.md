@@ -18,15 +18,8 @@ tags:
     <div class="px-video-container" id="myvid">
       <div class="px-video-img-captions-container">
         <div class="px-video-captions hide" aria-hidden="true"></div>
-        <video width="100%" height="100%" poster="media/foo.jpg" controls>
-            <source src="https://baikevideo.cdn.bcebos.com/media/mda-OgLyXXY16SVdPBHF/4a35ee2e3ee137f28a11f2bfab519a53.m3u8" />
-            <source src="foo.webm" type="video/webm" />
-            <track kind="captions" label="English captions" src="media/foo.vtt" srclang="en" default />
-            <div>
-                <a href="https://baikevideo.cdn.bcebos.com/media/mda-OgLyXXY16SVdPBHF/4a35ee2e3ee137f28a11f2bfab519a53.m3u8">
-                    <img src="media/foo.jpg" width="640" height="360" alt="download video" />
-                </a>
-            </div>
+        <video width="100%" height="100%">
+            <source src="/video/3c42e1833e924c24c765cf1a2030a28b.mp4.mp4" />
         </video>
       </div>
       <div class="px-video-controls"></div>
