@@ -12,8 +12,10 @@ tags:
 
 **老母鸡：**
 <div style="float:left">
-  <img src="/img/te/52.jpg" width="150">
-  <img src="/img/te/54.jpg" width="150">
+  <img src="/img/te/52.jpg" width="180">
+</div>
+<div style="float:right">
+  <img src="/img/te/54.jpg" width="180">
 </div>
 
 
@@ -52,4 +54,4 @@ tags:
 -------
 **如有任何问题可联系微信，长按微信二维码加好友，还有各种农产品，地道的湖南味：**
 
-![](/img/wxmp.png)
+<img src="/img/wxmp.png" width="150">
