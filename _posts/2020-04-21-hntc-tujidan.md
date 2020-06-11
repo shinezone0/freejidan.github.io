@@ -11,7 +11,7 @@ tags:
 ---
 
 **老母鸡：**
-<div style=float:left>
+<div style="float:left">
   <img src="/img/te/52.jpg" width="150">
   <img src="/img/te/54.jpg" width="150">
 </div>
