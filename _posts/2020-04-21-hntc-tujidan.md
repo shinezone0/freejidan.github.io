@@ -11,11 +11,11 @@ tags:
 ---
 
 **老母鸡：**
-<img src="/img/te/52.jpg" width="50">
-<img src="/img/te/54.jpg" width="50">
+<img src="/img/te/52.jpg" width="auto"><img src="/img/te/54.jpg" width="auto">
+
 
 <body>
-    <p>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</p> <img src="/img/wxsm.jpg" width="50">
+    <p>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</p> <img src="/img/wxsm.png" width="100">
 	<video class="tvhou" width="100%" height="100%"
 		controls="controls" autoplay="autoplay"
 		x-webkit-airplay="true" x5-video-player-fullscreen="true"
