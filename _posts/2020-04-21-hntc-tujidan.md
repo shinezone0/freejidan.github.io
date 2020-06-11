@@ -19,9 +19,9 @@ tags:
 
 
 <body>
-    <div style="color:#FF0000;float:left">
+    <div style="color:#FF0000">
       <b>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</b>
-	  <img src="/img/wxsm.png" width="100" style="float:right">
+	  <img src="/img/wxsm.png" width="100" style="float:left">
     </div>
 	
 	<video class="tvhou" width="100%" height="100%"
