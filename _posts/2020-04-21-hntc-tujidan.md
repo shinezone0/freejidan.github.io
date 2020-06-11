@@ -11,8 +11,11 @@ tags:
 ---
 
 **老母鸡：**
-<div></div>
-<img src="/img/te/52.jpg" width="auto"><img src="/img/te/54.jpg" width="auto">
+<div float:left>
+  <img src="/img/te/52.jpg" width="150">
+  <img src="/img/te/54.jpg" width="150">
+</div>
+
 
 
 <body>
