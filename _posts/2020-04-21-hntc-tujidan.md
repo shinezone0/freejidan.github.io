@@ -18,7 +18,7 @@ tags:
     </div>
 	<br />
     <div style="color:#FF0000">
-      <div>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</div>
+      <p>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</p>
 	  <img src="/img/wxsm.png" width="100" style="float:left">
     </div>
 	
