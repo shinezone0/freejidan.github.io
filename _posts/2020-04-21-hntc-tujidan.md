@@ -17,7 +17,7 @@ tags:
       <img src="/img/te/54.jpg" width="180" style="float:right">
     </div>
     <div style="color:#FF0000">
-      <p>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</p>
+      <div>探索发现，湖南的健康农产品：仅在手机上可观看,微信扫下面二维码</div>
 	  <img src="/img/wxsm.png" width="100" style="float:left">
     </div>
 	
