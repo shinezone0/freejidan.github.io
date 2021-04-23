@@ -56,8 +56,8 @@ tags:
 		  <td>248*248mm/片 50片/包 80克/平方米</td>
 		  <td>5元（78卷/包 起订）</td>
 		</tr>
-		<tr>
-		  <td rowspan="2"><img src="/img/yanzhi/6.jpg" width="150"></td>
+		<tr rowspan="2">
+		  <td><img src="/img/yanzhi/6.jpg" width="150"></td>
 		  <td>鱼鳞抹布</td>
 		  <td>350*450mm/片 </td>
 		  <td>7元（500片起订）</td>
