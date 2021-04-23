@@ -25,7 +25,7 @@ tags:
 </tr>
 <tr>
   <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-  <td align="center" valign="middle">万能大夹子</td>
+  <td align="center" valign="center">万能大夹子</td>
   <td>70*125mm</td>
   <td>3元</td>
 </tr>
