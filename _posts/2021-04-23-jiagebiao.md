@@ -13,7 +13,7 @@ tags:
 ### 宴纸贸易有限公司零售价格表
 
 <body>
-	<table border="1" style="word-break:break-all; word-wrap:break-all;">
+	<table width="100%" border="1" style="word-break:break-all; word-wrap:break-all;">
 		<tr>
 		  <th>产品图片</th>
 		  <th>产品名称</th>
