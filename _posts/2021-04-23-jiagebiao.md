@@ -74,9 +74,10 @@ tags:
 		  <tr>
 				<td>200*170mm/片</td>
 				<td>7元</td>
-				<td>250*250mm/片</td>
+		  </tr>
+		  <tr>
+		  		<td>250*250mm/片</td>
 				<td>7元</td>
-
 		  </tr>
 		  <tr>
 				<td>300*300mm/片</td>
