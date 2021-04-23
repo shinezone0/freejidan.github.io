@@ -29,15 +29,13 @@ tags:
 		<tr>
 		  <td><img src="/img/yanzhi/1.jpg" width="150"></td>
 		  <td style="text-align: middle;">纯棉洗脸巾卷式</td>
-		  <td>200*200mm/片 80片/卷
-		      80克/平方米</td>
+		  <td>200*200mm/片 80片/卷 80克/平方米</td>
 		  <td>8元（100卷起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/2.jpg" width="150"></td>
 		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 
-		      80克/平方米</td>
+		  <td>200*200mm/片 60片/包 80克/平方米</td>
 		  <td>7元（100卷起订）</td>
 		</tr>
 		<tr>
@@ -49,15 +47,13 @@ tags:
 		<tr>
 		  <td><img src="/img/yanzhi/4.jpg" width="150"></td>
 		  <td>懒人抹布赠品款</td>
-		  <td>240*240mm/片 22片/包 
-		      80克/平方米</td>
+		  <td>240*240mm/片 22片/包 80克/平方米</td>
 		  <td>3.5元（100卷起订））</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/5.jpg" width="150"></td>
 		  <td>懒人抹布宴纸款</td>
-		  <td>248*248mm/片 50片/包
-		      80克/平方米</td>
+		  <td>248*248mm/片 50片/包 80克/平方米</td>
 		  <td>5元（78卷/包 起订）</td>
 		</tr>
 		<tr>
@@ -77,22 +73,19 @@ tags:
 		<tr>
 		  <td><img src="/img/yanzhi/8.jpg" width="150"></td>
 		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 
-		      80克/平方米</td>
+		  <td>200*200mm/片 60片/包 80克/平方米</td>
 		  <td>7元</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/10.jpg" width="150"></td>
 		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 
-		      80克/平方米</td>
+		  <td>200*200mm/片 60片/包 80克/平方米</td>
 		  <td>7元</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/11.jpg" width="150"></td>
 		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 
-		      80克/平方米</td>
+		  <td>200*200mm/片 60片/包 80克/平方米</td>
 		  <td>7元</td>
 		</tr>	
 	</table>
