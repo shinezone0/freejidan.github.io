@@ -14,34 +14,34 @@ tags:
 
 <img src="/img/yanzhi/9.jpg" width="150">   规格:7*12.5cm  3元
 ![规格:7*12.5cm  3元](/img/yanzhi/9.jpg)
+sfsfsflkj
 <body>
-
-<table border="1">
-<tr>
-  <th>产品图片</th>
-  <th>产品名称</th>
-  <th>规格</th>
-  <th>零售价</th>
-</tr>
-<tr>
-  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-  <td align="center" valign="center">万能大夹子</td>
-  <td>70*125mm</td>
-  <td>3元</td>
-</tr>
-<tr>
-  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-  <td>万能大夹子</td>
-  <td>70*125mm</td>
-  <td>3元</td>
-</tr>
-<tr>
-  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-  <td>万能大夹子</td>
-  <td>70*125mm</td>
-  <td>3元</td>
-</tr>
-</table>
+	<table border="1">
+		<tr>
+		  <th>产品图片</th>
+		  <th>产品名称</th>
+		  <th>规格</th>
+		  <th>零售价</th>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
+		  <td align="center" valign="center">万能大夹子</td>
+		  <td>70*125mm</td>
+		  <td>3元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
+		  <td>万能大夹子</td>
+		  <td>70*125mm</td>
+		  <td>3元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
+		  <td>万能大夹子</td>
+		  <td>70*125mm</td>
+		  <td>3元</td>
+		</tr>
+	</table>
 </body>
 
 ------
