@@ -43,6 +43,76 @@ sfsfsflkj
 		      80克/平方米</td>
 		  <td>7元</td>
 		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/2.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/3.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/4.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/5.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/6.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/7.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/8.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/10.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>
+		<tr>
+		  <td><img src="/img/yanzhi/11.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
+		</tr>		
 	</table>
 </body>
 
