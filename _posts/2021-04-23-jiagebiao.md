@@ -58,7 +58,7 @@ tags:
 		</tr>
 		<tr>
 		  <td rowspan="2"><img src="/img/yanzhi/6.jpg" width="150"></td>
-		  <td rowspan="2">鱼鳞抹布</td>
+		  <td>鱼鳞抹布</td>
 		  <td>350*450mm/片 </td>
 		  <td>7元（500片起订）</td>
 		  <td>350*450mm/片 </td>
