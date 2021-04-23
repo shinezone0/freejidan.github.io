@@ -13,7 +13,7 @@ tags:
 #宴纸贸易有限公司零售价格表
 
 <img src="/img/yanzhi/9.jpg" width="150">   规格:7*12.5cm  3元
-![](/img/yanzhi/9.jpg)   规格:7*12.5cm  3元
+![规格:7*12.5cm  3元](/img/yanzhi/9.jpg)
 
 ------
 
