@@ -23,7 +23,7 @@ tags:
   <th>零售价</th>
 </tr>
 <tr>
-  <td> <img src="/img/yanzhi/9.jpg" width="150"></td>
+  <td> <img src="/img/yanzhi/9.jpg" width="150">大夹子</td>
   <td>555 77 854</td>
   <td>555 77 855</td>
 </tr>
