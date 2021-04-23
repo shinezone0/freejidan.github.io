@@ -13,12 +13,12 @@ tags:
 ### 宴纸贸易有限公司零售价格表
 
 <body>
-	<table width="80%" border="1" style="word-break:break-all; word-wrap:break-all; text-align:center">
+	<table width="400" border="1" style="word-break:break-all; word-wrap:break-all; text-align:center">
 		<tr>
-		  <th width="35%">产品图片</th>
-		  <th width="15%">产品名称</th>
-		  <th width="20%">规格</th>
-		  <th width="10%">零售价</th>
+		  <th width="180">产品图片</th>
+		  <th width="70">产品名称</th>
+		  <th width="90">规格</th>
+		  <th width="60">零售价</th>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
