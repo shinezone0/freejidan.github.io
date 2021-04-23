@@ -59,18 +59,26 @@ tags:
 		<tr>
 		  <td rowspan="2"><img src="/img/yanzhi/6.jpg" width="150"></td>
 		  <td rowspan="2">鱼鳞抹布</td>
-		  <td>350*450mm/片 </td>
+		  <td>350*450mm/片</td>
 		  <td>7元（500片起订）</td>
 		  <tr>
-			  <td>350*450mm/片 </td>
-			  <td>7元（500片起订）</td>
+				<td>300*400mm/片 </td>
+				<td>7元（500片起订）</td>
 		  </tr>
 		</tr>
 		<tr>
-		  <td><img src="/img/yanzhi/7.jpg" width="150"></td>
-		  <td>珊瑚绒抹布</td>
-		  <td>250*250mm/片 300*300mm/片</td>
+		  <td rowspan="3"><img src="/img/yanzhi/7.jpg" width="150"></td>
+		  <td rowspan="3">珊瑚绒抹布</td>
+		  <td>250*250mm/片</td>
 		  <td>7元</td>
+		  <tr>
+				<td>200*170mm/片</td>
+				<td>7元</td>
+				<td>250*250mm/片</td>
+				<td>7元</td>
+				<td>300*300mm/片</td>
+				<td>7元</td>
+		  </tr>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/8.jpg" width="150"></td>
