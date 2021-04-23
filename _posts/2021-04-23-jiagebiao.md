@@ -15,11 +15,12 @@ tags:
 <img src="/img/yanzhi/9.jpg" width="150">   规格:7*12.5cm  3元
 ![规格:7*12.5cm  3元](/img/yanzhi/9.jpg)
 <body>
-table td{
+<table td{
             text-align: center;
             height: 60px;
             vertical-align: middle!important;
         }
+>
 
 <table border="1">
 <tr>
