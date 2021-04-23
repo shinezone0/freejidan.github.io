@@ -15,12 +15,6 @@ tags:
 <img src="/img/yanzhi/9.jpg" width="150">   规格:7*12.5cm  3元
 ![规格:7*12.5cm  3元](/img/yanzhi/9.jpg)
 <body>
-<table td{
-            text-align: center;
-            height: 60px;
-            vertical-align: middle!important;
-        }
->
 
 <table border="1">
 <tr>
@@ -31,7 +25,7 @@ tags:
 </tr>
 <tr>
   <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-  <td>万能大夹子</td>
+  <td align="center">万能大夹子</td>
   <td>70*125mm</td>
   <td>3元</td>
 </tr>
