@@ -31,7 +31,7 @@ sfsfsflkj
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/1.jpg" width="150"></td>
-		  <td>纯棉洗脸巾卷式</td>
+		  <td style="text-align: center;">纯棉洗脸巾卷式</td>
 		  <td>200*200mm/片 80片/卷
 		      80克/平方米</td>
 		  <td>8元</td>
