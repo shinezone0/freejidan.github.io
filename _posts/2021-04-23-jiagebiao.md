@@ -30,16 +30,18 @@ sfsfsflkj
 		  <td>3元</td>
 		</tr>
 		<tr>
-		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-		  <td>万能大夹子</td>
-		  <td>70*125mm</td>
-		  <td>3元</td>
+		  <td><img src="/img/yanzhi/1.jpg" width="150"></td>
+		  <td>纯棉洗脸巾卷式</td>
+		  <td>200*200mm/片 80片/卷
+		      80克/平方米</td>
+		  <td>8元</td>
 		</tr>
 		<tr>
-		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-		  <td>万能大夹子</td>
-		  <td>70*125mm</td>
-		  <td>3元</td>
+		  <td><img src="/img/yanzhi/2.jpg" width="150"></td>
+		  <td>纯棉洗脸巾抽式</td>
+		  <td>200*200mm/片 60片/包 
+		      80克/平方米</td>
+		  <td>7元</td>
 		</tr>
 	</table>
 </body>
