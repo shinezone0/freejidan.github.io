@@ -22,7 +22,7 @@ tags:
   <th>电话</th>
 </tr>
 <tr>
-  <td style='background-image:url(/img/yanzhi/9.jpg);' width="auto"></td>
+  <td src='/img/yanzhi/9.jpg' width="auto"></td>
   <td>555 77 854</td>
   <td>555 77 855</td>
 </tr>
