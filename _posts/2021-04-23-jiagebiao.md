@@ -13,15 +13,10 @@ tags:
 ### 宴纸贸易有限公司价格表
 
 <body>
-	<style type="text/css">
-	#mytable{
-		width:100%;
-		height:100%;
-		indent:10px;
-		text-align:center;
-		}
-	</style>
-	<table align="center" border="1px" bordercolor="blue" width="100%" height="100%" cellspacing="0" id="mytable">
+
+	<table border=0 style="width:100% ;height:100%">
+	<tr><td align="center" valign="middle">
+	<table border="1px" cellspacing="0" id="mytable">
 		<tr>
 		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
@@ -126,5 +121,7 @@ tags:
 		  <td>245*245mm/片 50片/卷 <br/>80克黏胶/平方米</td>
 		  <td>4.75元<br/>（78卷/包 起订）</td>
 		</tr>	
+	</table>
+	</td></tr>
 	</table>
 </body>
