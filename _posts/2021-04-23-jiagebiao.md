@@ -15,10 +15,11 @@ tags:
 <body>
 	<table width="100%" border="1" cellspacing="0">
 		<tr>
-		  <th width="30%">产品图片</th>
+		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
-		  <th width="30%">规格</th>
-		  <th width="20%">单价</th>
+		  <th width="30%">产品名称</th>
+		  <th width="20%">规格</th>
+		  <th width="10%">单价</th>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
