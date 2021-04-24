@@ -33,14 +33,14 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-		  <td align="center">万能大夹子</td>
+		  <td>万能大夹子</td>
 		  <td></td>
 		  <td>70*125mm</td>
 		  <td>1.25元<br/>（100个起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/1.jpg" width="150"></td>
-		  <td valign="middle">纯棉洗脸巾【卷式】</td>
+		  <td>纯棉洗脸巾【卷式】</td>
 		  <td></td>
 		  <td>200*200mm/片 80片/卷 <br/>80克/平方米</td>
 		  <td>8元<br/>（100卷起订）</td>
