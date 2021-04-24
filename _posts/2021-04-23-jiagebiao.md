@@ -67,8 +67,8 @@ tags:
 		  </tr>
 		</tr>
 		<tr>
-		  <td rowspan="3"><img src="/img/yanzhi/7.jpg" width="150"></td>
-		  <td rowspan="3">珊瑚绒抹布</td>
+		  <td rowspan="4"><img src="/img/yanzhi/7.jpg" width="150"></td>
+		  <td rowspan="4">珊瑚绒抹布</td>
 		  <td>250*250mm/片</td>
 		  <td>7元</td>
 		  <tr>
