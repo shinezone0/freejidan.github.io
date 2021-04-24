@@ -30,7 +30,7 @@ tags:
 		  <td><img src="/img/yanzhi/1.jpg" width="150"></td>
 		  <td valign="middle">纯棉洗脸巾卷式</td>
 		  <td>200*200mm/片 80片/卷 <br/>80克/平方米</td>
-		  <td>8元<>br/（100卷起订）</td>
+		  <td>8元<br/>（100卷起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/2.jpg" width="150"></td>
@@ -47,7 +47,7 @@ tags:
 		<tr>
 		  <td><img src="/img/yanzhi/4.jpg" width="150"></td>
 		  <td>懒人抹布赠品款<br/>Gift money for lazy dishcloth</td>
-		  <td>240*240mm/片 22片/包 80克/平方米</td>
+		  <td>240*240mm/片 22片/包 <br/>80克/平方米</td>
 		  <td>3.5元<br/>（100卷起订））</td>
 		</tr>
 		<tr>
