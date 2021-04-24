@@ -24,7 +24,7 @@ tags:
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
 		  <td align="center">万能大夹子</td>
 		  <td>70*125mm</td>
-		  <td>1.25元（500个起订）</td>
+		  <td>1.25元（100个起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/1.jpg" width="150"></td>
@@ -60,10 +60,10 @@ tags:
 		  <td rowspan="2"><img src="/img/yanzhi/6.jpg" width="150"></td>
 		  <td rowspan="2">鱼鳞抹布</td>
 		  <td>350*450mm/片</td>
-		  <td>7元（500片起订）</td>
+		  <td>7元（100片起订）</td>
 		  <tr>
 				<td>300*400mm/片 </td>
-				<td>7元（500片起订）</td>
+				<td>7元（100片起订）</td>
 		  </tr>
 		</tr>
 		<tr>
@@ -86,21 +86,21 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/8.jpg" width="150"></td>
-		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 80克/平方米</td>
-		  <td>7元</td>
+		  <td>压缩毛巾<br/>Compressed towel</td>
+		  <td>240*300mm/片 20粒/包 80克黏胶/平方米</td>
+		  <td>5.75元（100包起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/10.jpg" width="150"></td>
-		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 80克/平方米</td>
-		  <td>7元</td>
+		  <td>海澜优选一次性浴巾<br/>Hailan preferred disposable bath towel</td>
+		  <td>650*1000mm/张 1张/包 80克黏胶/平方米</td>
+		  <td>3.2元（150包/箱 起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/11.jpg" width="150"></td>
-		  <td>纯棉洗脸巾抽式</td>
-		  <td>200*200mm/片 60片/包 80克/平方米</td>
-		  <td>7元</td>
+		  <td>懒人抹布印花款<br/>Lazy rag for printed</td>
+		  <td>245*245mm/片 50片/卷 80克黏胶/平方米</td>
+		  <td>4.75元（78卷/包 起订）</td>
 		</tr>	
 	</table>
 </body>
