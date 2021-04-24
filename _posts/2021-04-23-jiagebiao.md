@@ -40,7 +40,7 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/3.jpg" width="150"></td>
-		  <td>懒人抹布不锈钢支架</td>
+		  <td>懒人抹布不锈钢支架<br/>Stainless steel bracket of lazy dishcloth</td>
 		  <td></td>
 		  <td>1.5元（100个起订）</td>
 		</tr>
