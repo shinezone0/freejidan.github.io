@@ -18,10 +18,10 @@ tags:
 		width:100%;
 		height:100%;
 		indent:10px;
-		align:center;
+		text-align:center;
 		}
 	</style>
-	<table border="1px" bordercolor="blue" width="100%" height="100%" cellspacing="0" id="mytable">
+	<table align="center" border="1px" bordercolor="blue" width="100%" height="100%" cellspacing="0" id="mytable">
 		<tr>
 		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
