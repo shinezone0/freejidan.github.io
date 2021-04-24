@@ -16,7 +16,7 @@ tags:
 
 	<table border=0 style="width:100% ;height:100%">
 	<tr><td align="center" valign="middle">
-	<table border="1px" cellspacing="0" id="mytable">
+	<table border="1" cellspacing="0" id="mytable">
 		<tr>
 		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
