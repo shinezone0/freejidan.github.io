@@ -17,8 +17,8 @@ tags:
 	#mytable{
 		width:100%;
 		height:100%;
-		text-indent:10px;
-		text-align:center;
+		indent:10px;
+		align:center;
 		}
 	</style>
 	<table border="1px" bordercolor="blue" width="100%" height="100%" cellspacing="0" id="mytable">
