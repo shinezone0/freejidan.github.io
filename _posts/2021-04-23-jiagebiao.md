@@ -20,7 +20,7 @@ tags:
 		text-indent:10px;
 		}
 	</style>
-	<table width="100%" border="1" cellspacing="0" id="mytable">
+	<table align="center"  border="1px" bordercolor="blue" width="400px" height="300px" cellspacing="0" id="mytable">
 		<tr>
 		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
