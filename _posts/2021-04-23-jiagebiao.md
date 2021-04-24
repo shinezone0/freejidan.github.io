@@ -13,12 +13,12 @@ tags:
 ### 宴纸贸易有限公司价格表
 
 <body>
-	<table width="400" border="1" cellspacing="0" style="height:250">
+	<table width="100%" border="1" cellspacing="0">
 		<tr>
-		  <th width="180">产品图片</th>
-		  <th width="70">产品名称</th>
-		  <th width="90">规格</th>
-		  <th width="60">单价</th>
+		  <th width="30%">产品图片</th>
+		  <th width="20%">产品名称</th>
+		  <th width="30%">规格</th>
+		  <th width="20%">单价</th>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
