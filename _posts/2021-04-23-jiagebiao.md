@@ -52,7 +52,7 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/5.jpg" width="150"></td>
-		  <td>懒人抹布宴纸款<br/>Lazy rag of yanzhi</td>
+		  <td>懒人抹布宴纸款<br/>Lazy rag for YanZhi</td>
 		  <td>248*248mm/片 50片/包 80克/平方米</td>
 		  <td>5元（78卷/包 起订）</td>
 		</tr>
