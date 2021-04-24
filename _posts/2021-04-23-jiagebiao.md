@@ -25,7 +25,7 @@ tags:
 	
 	<table border="1" cellspacing="0" id="mytable">
 		<tr>
-		  <th width="20%" align="center">产品图片</th>
+		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
 		  <th width="30%">视频解说</th>
 		  <th width="20%">规格</th>
