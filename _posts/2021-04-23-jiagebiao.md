@@ -46,13 +46,13 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/4.jpg" width="150"></td>
-		  <td>懒人抹布赠品款<br/>Gift money for lazy dishcloth</td>
+		  <td>懒人抹布【赠品款】<br/>Gift money for lazy dishcloth</td>
 		  <td>240*240mm/片 22片/包 <br/>80克/平方米</td>
 		  <td>3.5元<br/>（100卷起订））</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/5.jpg" width="150"></td>
-		  <td>懒人抹布宴纸款<br/>Lazy rag for YanZhi</td>
+		  <td>懒人抹布【宴纸款】<br/>Lazy rag for YanZhi</td>
 		  <td>248*248mm/片 50片/包 <br/>80克/平方米</td>
 		  <td>5元<br/>（78卷/包 起订）</td>
 		</tr>
@@ -92,13 +92,13 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/10.jpg" width="150"></td>
-		  <td>海澜优选一次性浴巾<br/>Hailan preferred disposable bath towel</td>
+		  <td>【海澜优选】一次性浴巾<br/>Hailan preferred disposable bath towel</td>
 		  <td>650*1000mm/张 1张/包 <br/>80克黏胶/平方米</td>
 		  <td>3.2元<br/>（150包/箱 起订）</td>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/11.jpg" width="150"></td>
-		  <td>懒人抹布印花款<br/>Lazy rag for printed</td>
+		  <td>懒人抹布【印花款】<br/>Lazy rag for printed</td>
 		  <td>245*245mm/片 50片/卷 <br/>80克黏胶/平方米</td>
 		  <td>4.75元<br/>（78卷/包 起订）</td>
 		</tr>	
