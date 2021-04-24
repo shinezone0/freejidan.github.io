@@ -13,7 +13,14 @@ tags:
 ### 宴纸贸易有限公司价格表
 
 <body>
-	<table width="100%" border="1" cellspacing="0">
+	<style type="text/css">
+	#mytable{
+		width:300px;
+		height:200px;
+		text-indent:10px;
+		}
+	</style>
+	<table width="100%" border="1" cellspacing="0" id="mytable">
 		<tr>
 		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
