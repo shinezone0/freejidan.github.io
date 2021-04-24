@@ -15,12 +15,12 @@ tags:
 <body>
 	<style type="text/css">
 	#mytable{
-		width:300px;
-		height:200px;
+		width:100%;
+		height:100%;
 		text-indent:10px;
 		}
 	</style>
-	<table align="center"  border="1px" bordercolor="blue" width="400px" height="300px" cellspacing="0" id="mytable">
+	<table align="center"  border="1px" bordercolor="blue" width="100%" height="100%" cellspacing="0" id="mytable">
 		<tr>
 		  <th width="20%">产品图片</th>
 		  <th width="20%">产品名称</th>
