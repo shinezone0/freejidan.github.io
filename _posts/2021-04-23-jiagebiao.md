@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      邵武市宴纸贸易有限公司资料
-subtitle:   
+subtitle:   Shaowu Yanzhi Trading Co., Ltd
 date:       2021-04-21
 author:     jiage
 header-img: img/1.png
