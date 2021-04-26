@@ -33,7 +33,7 @@ tags:
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
-		  <td>万能大夹子</td>
+		  <td>万能棉被大夹子</td>
 		  <td></td>
 		  <td>70*125mm</td>
 		  <td>1.25元<br/>（100个起订）</td>
