@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      邵武市宴纸贸易有限公司资料
-subtitle:   Shaowu Yanzhi Trading Co., Ltd
+title:      海澜优选
+subtitle:   Hailan optimization
 date:       2021-04-26
 author:     jiage
 header-img: img/1.png
@@ -25,11 +25,11 @@ tags:
 	
 	<table border="1" cellspacing="0" id="mytable">
 		<tr>
-		  <th width="25%">产品图片</th>
-		  <th width="15%">产品名称</th>
-		  <th width="10%">视频解说</th>
+		  <th width="20%">产品图片</th>
+		  <th width="20%">产品名称</th>
+		  <th width="30%">视频解说</th>
 		  <th width="20%">规格</th>
-		  <th width="15%">单价（不含税/邮）</th>
+		  <th width="10%">单价（不含税/邮）</th>
 		</tr>
 		<tr>
 		  <td><img src="/img/yanzhi/9.jpg" width="150"></td>
